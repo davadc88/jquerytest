@@ -1,0 +1,11 @@
+/*
+ * This css is working over index.hml
+ */
+
+.square-player {
+    width: 75px;
+    height: 75px;
+    margin-left: 2px;
+    background-color: #000000;
+    display: block;
+}
